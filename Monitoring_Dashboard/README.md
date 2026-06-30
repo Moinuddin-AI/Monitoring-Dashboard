@@ -44,7 +44,7 @@ This project delivers a unified monitoring dashboard to improve observability an
 • Azure Dashboard visualizes metrics, logs and costs
 
 • Flow:
-<img width="4885" height="2656" alt="image" src="https://github.com/user-attachments/assets/e4df26a1-d7d8-49b5-9f20-c9b131782a73" />
+![Dashboard](screenshots/Diagram.png)
 
 
 
@@ -113,6 +113,9 @@ Step 5: Build Monitoring Dashboard (Metrics)
 		• Memory Working Set
 		• Http Server Errors
 		• Thread Count
+
+![Dashboard](screenshots/Metrics.png)
+		
 Step 6: Add Cost Tile
 
 	• Resource Group → Cost Management → Cost Analysis
@@ -237,3 +240,5 @@ Azure Dashboard
   • No cost
 
 Estimated monthly cost: Low (< $10 depending on ingestion)
+
+![Dashboard](screenshots/DailyCosts.png)
